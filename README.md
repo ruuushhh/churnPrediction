@@ -14,6 +14,7 @@ To run this app on local env follow this steps
    ```streamlit run setup.py```
 
 Example: <br>
-<img width="630" alt="image" src="https://github.com/ruuushhh/churnPrediction/assets/66899387/3353988e-d89f-4d6b-a366-5166b2dd2065">
+<img width="608" alt="image" src="https://github.com/ruuushhh/churnPrediction/assets/66899387/4c268ba0-0d09-4a46-952a-0a051d2bc033">
+
 
 
